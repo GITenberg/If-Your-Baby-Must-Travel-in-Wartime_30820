@@ -1,0 +1,36 @@
+_repo: If-Your-Baby-Must-Travel-in-Wartime_30820
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Gluyas
+    birthdate: 1888
+    deathdate: 1982
+    gutenberg_agent_id: '26858'
+    url: http://www.gutenberg.org/2009/agents/26858
+    wikipedia: http://en.wikipedia.org/wiki/Gluyas_Williams
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Children's Bureau
+    alias: United States. Department of Labor. Children's Bureau
+    gutenberg_agent_id: '34840'
+    url: http://www.gutenberg.org/2009/agents/34840
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2009-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Infants -- Travel'
+- !lcc 'HQ'
+- !lcsh 'World War, 1939-1945 -- Transportation -- United States'
+title: If Your Baby Must Travel in Wartime
+url: http://www.gutenberg.org/ebooks/30820
